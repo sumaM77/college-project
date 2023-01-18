@@ -1,0 +1,172 @@
+*{
+    padding: 0;
+    margin:  0;
+}
+.bgimage{
+    background-image: url("wallpaper2.jpg");
+    background-size: 100% 100%;
+    width: 100%;
+    height: 100vh;
+}
+
+.menu{
+    width: 100%;
+    height: 100px;
+    background-color: ;
+    background-color: rgba(0,0,0,0.3);
+    background-position: center;
+    box-sizing: border-box;    
+
+}
+.leftmenu{
+    width: 20%;
+    line-height: 100px;
+    float: left;
+}
+.leftmenu h2{
+    padding-left: 40px;
+    font-weight: bolder;
+    color: orange;
+    font-size: 22px;
+    font-family: 'Pacifico', cursive;
+}
+.rightmenu{
+    width: 75%;
+    height: 100px;
+    float: right;
+    font-family: Arial;
+    font-size: 15px;
+    font-weight: bolder;
+}
+.rightmenu ul{
+margin-top: 15px;
+text-decoration: none;
+color: black;
+}
+.rightmenu ul li{
+    display: inline-block; 
+    font-size: 18px;
+    color: white;
+    font-weight: bolder;
+    line-height: 100px;
+    margin-left: 50px;
+}
+.rightmenu ul li a{
+    text-decoration: none;
+    color: aliceblue;
+}
+.rightmenu ul li:hover{
+    color: orangered;
+}
+.text{
+    width: 100%;
+    margin-top: 185px;
+    text-transform: uppercase;
+    text-align: center;
+    color: rgb(27, 200, 212);
+    font-family: 'Rowdies', cursive;
+     font-size: larger;
+}
+{
+    padding: 0;
+    margin:  0;
+}
+.bgimage1{
+    background-image: url("bacbl.jpg");
+    background-size: 100% 100%;
+    width: 100%;
+    height: 150vh;
+}
+.menu1{
+    width: 100%;
+    height: 100px;
+    background-color: ;
+    background-color: rgba(0,0,0,0.7);
+    background-position: center;
+    box-sizing: border-box;    
+
+}
+.PARA{
+    font-family: 'Rowdies', cursive;
+    font-size: 22px;
+    color: black;
+}
+    
+.text1 h1{
+    text-align: center;
+    font-weight: bolder;
+    color: orange;
+    font-size: 55px;
+    font-family: 'Pacifico', cursive;
+}
+.leftmenu1 h1{
+    padding-left: 40px;
+    font-weight: bolder;
+    color: rgb(247, 29, 29);
+    font-size: 33px;
+    font-family: 'Rowdies', cursive;
+}   
+.leftmenu1{
+    text-align: center;
+}
+{
+    padding: 0;
+    margin:  0;
+}
+.bgimage2{
+    background-image: url("bacgr.jpg");
+    background-size: 100% 100%;
+    width: 100%;
+    height: 300vh;
+}
+.text2 h1{
+    text-align: center;
+    font-weight: bolder;
+    color: white;
+    font-size: 55px;
+    font-family: 'Pacifico', cursive;
+}
+.PARA1{
+    font-family: 'Dancing Script', cursive;
+    font-size: 34px;
+    color: black;
+}
+.leftmenu2{
+    text-align: center;
+}
+{
+    padding: 0;
+    margin:  0;
+}
+.bgimage3{
+    background-image: url("bacvi.jpg");
+    background-size: 100% 100%;
+    width: 100%;
+    height: 350vh;
+}
+.menu3{
+    width: 100%;
+    height: 100px;
+    background-color: ;
+    background-color: rgba(0,0,0,0.7);
+    background-position: center;
+    box-sizing: border-box;    
+}
+.text3 h1{
+    text-align: center;
+    font-weight: bolder;
+    color: rgb(182, 201, 17);
+    font-size: 55px;
+    font-family: 'Pacifico', cursive;
+}
+.list h1{
+    font-family: 'Rowdies', cursive;
+    color: brown;
+    text-align: left;
+}
+
+.para2{
+    font-family: 'Lobster Two', cursive;
+    font-size: 34px;
+    color: rgb(235, 18, 18);   
+}
